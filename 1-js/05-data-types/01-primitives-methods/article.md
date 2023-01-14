@@ -73,7 +73,7 @@ alert( str.toUpperCase() ); // HELLO
 
 موتور جاوااسکریپت این پردازه را به شدت بهینه میسازد به طوریکه حتی ممکن است ساخته شدن شئ اضافی را انجام ندهد. اما هنوز بایستی به مشخصات پایبند باشد و مثل ساخته شدن یک شئ رفتار کند.
 
-یک عدد هم توابع خودش را دارد، به عنوان مثلا، [toFixed(n)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed) عدد را با دقت خواسته شده گرد میکند:
+یک عدد هم توابع خودش را دارد، به عنوان مثال، [toFixed(n)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed) عدد را با دقت خواسته شده گرد میکند:
 
 ```js run
 let n = 1.23456;
